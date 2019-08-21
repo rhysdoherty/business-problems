@@ -1,0 +1,55 @@
+.header{
+    display: block;
+    width: 100%;
+    min-height: 50px;
+    background-color: #ffffff;
+    top: 0%;
+    position: sticky;
+}
+
+.heading.logo{
+    padding: 5px;
+    font-size: 20px;
+    font-weight: 900;
+    letter-spacing: .5px;
+    color: darkgray;
+    font-family: 'Playfair Display', serif;  
+}
+nav a {
+    text-decoration: none;
+    color: darkgray;
+    font-size: 20px;
+    padding: 10px;
+    margin:0px;
+    float: right;
+    font-family: 'Cairo', sans-serif;
+}
+
+.title{
+    font-size: 20px;
+    text-align: center;
+}
+
+.content{
+    display: block;
+    background-color: #ffffff;
+    margin: 0px 300px;
+    min-height: 200px;
+    text-align: center;
+}
+
+.content h2{
+    color: #151515; 
+    font-family: 'Playfair Display', serif;  
+}
+
+.content h4{
+    font-family: 'Source Serif Pro', serif;
+
+}
+
+ .content p{
+    font-family: 'Cairo', sans-serif;
+
+     
+}
