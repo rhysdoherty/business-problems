@@ -41,6 +41,7 @@ nav a {
 .content h2{
     color: #151515; 
     font-family: 'Playfair Display', serif;  
+    text-decoration: underline;
 }
 
 .content h4{
@@ -52,4 +53,8 @@ nav a {
     font-family: 'Cairo', sans-serif;
 
      
+}
+
+ul li{
+    list-style-type: none;
 }
